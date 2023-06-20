@@ -1,3 +1,9 @@
+
+![Simulator Screen Recording - iPhone 14 Pro Max - 2023-06-20 at 22 53 13](https://github.com/satisvai/flutter-exam-app/assets/75198490/a6a61852-7056-44ad-94dd-33ef66b79114)
+
+# Desc
+This GitHub repository is a project that showcases a user interface (UI) built using Flutter framework and follows the Model-View-Controller (MVC) architectural pattern.
+
 # exam_app
 
 A new Flutter project.
