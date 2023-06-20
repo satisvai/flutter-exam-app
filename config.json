@@ -1,0 +1,15 @@
+{
+    "modules": [
+        "onboard",
+        "home",
+        "exam_list",
+        "leaderboard",
+        "profile",
+        "question",
+        "question_list",
+        "navigation"
+    ],
+    "module_directory_name": "module",
+    "experimental_mode": false,
+    "unfreezed": true
+}
